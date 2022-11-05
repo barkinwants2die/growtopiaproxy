@@ -1,0 +1,16 @@
+{
+    "command": {
+        "prefix": "!"
+    },
+    "host": {
+        "port": 16999
+    },
+    "misc": {
+        "forceUpdateGameVersion": false
+    },
+    "server": {
+        "gameVersion": "4.07",
+        "host": "growtopia1.com",
+        "protocol": 0
+    }
+}

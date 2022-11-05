@@ -1,0 +1,80 @@
+[2022-11-05 00:49:01.338] [GTProxy] [info] Starting Growtopia proxy v1.3.1+54...
+[2022-11-05 00:49:01.356] [GTProxy] [info] HTTP(s) server listening on port 443.
+[2022-11-05 00:49:01.626] [GTProxy] [debug] Server data: 
+[0]: server|213.179.209.168
+[1]: port|17199
+[2]: type|1
+[3]: #maint|Server is under maintenance. We will be back online shortly. Thank you for your patience!
+[4]: beta_server|beta.growtopiagame.com
+[5]: beta_port|26999
+[6]: beta_type|1
+[7]: beta2_server|beta2.growtopiagame.com
+[8]: beta2_port|26999
+[9]: beta2_type|1
+[10]: beta3_server|beta-pub.growtopiagame.com
+[11]: beta3_port|26999
+[12]: beta3_type|1
+[13]: type2|1
+[14]: meta|IL1uzhaqBmNJ6vAUKOy3XeXd2qsFe7HGXkdXBCfaNjE=
+[15]: RTENDMARKERBS1001
+[2022-11-05 00:49:01.628] [GTProxy] [info] ENet server listening on port 16999.
+[2022-11-05 00:49:18.873] [GTProxy] [info] Starting Growtopia proxy v1.3.1+54...
+[2022-11-05 00:49:18.885] [GTProxy] [info] HTTP(s) server listening on port 443.
+[2022-11-05 00:49:19.136] [GTProxy] [debug] Server data: 
+[0]: server|213.179.209.168
+[1]: port|17198
+[2]: type|1
+[3]: #maint|Server is under maintenance. We will be back online shortly. Thank you for your patience!
+[4]: beta_server|beta.growtopiagame.com
+[5]: beta_port|26999
+[6]: beta_type|1
+[7]: beta2_server|beta2.growtopiagame.com
+[8]: beta2_port|26999
+[9]: beta2_type|1
+[10]: beta3_server|beta-pub.growtopiagame.com
+[11]: beta3_port|26999
+[12]: beta3_type|1
+[13]: type2|1
+[14]: meta|4utJ1918IpTbjcYhvxzD5qMjpjlLF979RiX37Pm4Bvc=
+[15]: RTENDMARKERBS1001
+[2022-11-05 00:49:19.138] [GTProxy] [info] ENet server listening on port 16999.
+[2022-11-05 01:16:49.397] [GTProxy] [info] Starting Growtopia proxy v1.3.1+54...
+[2022-11-05 01:16:49.404] [GTProxy] [info] HTTP(s) server listening on port 443.
+[2022-11-05 01:16:49.675] [GTProxy] [debug] Server data: 
+[0]: server|213.179.209.168
+[1]: port|17200
+[2]: type|1
+[3]: #maint|Server is under maintenance. We will be back online shortly. Thank you for your patience!
+[4]: beta_server|beta.growtopiagame.com
+[5]: beta_port|26999
+[6]: beta_type|1
+[7]: beta2_server|beta2.growtopiagame.com
+[8]: beta2_port|26999
+[9]: beta2_type|1
+[10]: beta3_server|beta-pub.growtopiagame.com
+[11]: beta3_port|26999
+[12]: beta3_type|1
+[13]: type2|1
+[14]: meta|5e0VW8vsbnTD757/JHdxFaLkfFnOMFNgiV+07z+agi0=
+[15]: RTENDMARKERBS1001
+[2022-11-05 01:16:49.677] [GTProxy] [info] ENet server listening on port 16999.
+[2022-11-05 15:21:46.859] [GTProxy] [info] Starting Growtopia proxy v1.3.1+54...
+[2022-11-05 15:21:46.877] [GTProxy] [info] HTTP(s) server listening on port 443.
+[2022-11-05 15:21:47.155] [GTProxy] [debug] Server data: 
+[0]: server|213.179.209.168
+[1]: port|17197
+[2]: type|1
+[3]: #maint|Server is under maintenance. We will be back online shortly. Thank you for your patience!
+[4]: beta_server|beta.growtopiagame.com
+[5]: beta_port|26999
+[6]: beta_type|1
+[7]: beta2_server|beta2.growtopiagame.com
+[8]: beta2_port|26999
+[9]: beta2_type|1
+[10]: beta3_server|beta-pub.growtopiagame.com
+[11]: beta3_port|26999
+[12]: beta3_type|1
+[13]: type2|1
+[14]: meta|RpG9R84Aogz/sllwlsvc4PuGNDyBPSo8q/G6CSKAYkM=
+[15]: RTENDMARKERBS1001
+[2022-11-05 15:21:47.157] [GTProxy] [info] ENet server listening on port 16999.
